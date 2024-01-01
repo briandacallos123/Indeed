@@ -1,0 +1,1 @@
+This website is just a mimic of indeed. Also take note that this may not contains all the functionality of the indeed since i just follow the very core concept of job application.
